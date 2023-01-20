@@ -1,2 +1,1 @@
-hello.
-
+This repository contains Machine Learning codes
